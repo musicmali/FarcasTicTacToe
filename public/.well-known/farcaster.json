@@ -7,11 +7,11 @@
   "frame": {
     "version": "next",
     "name": "FarcasTicTacToe",
-    "iconUrl": "https://your-domain.com/icon.png",
-    "splashImageUrl": "https://your-domain.com/splash.png",
+    "iconUrl": "https://farcastictactoe.vercel.app/icon.svg",
+    "splashImageUrl": "https://farcastictactoe.vercel.app/splash.svg",
     "splashBackgroundColor": "#667eea",
-    "homeUrl": "https://your-domain.com",
-    "webhookUrl": "https://your-domain.com/api/webhook"
+    "homeUrl": "https://farcastictactoe.vercel.app",
+    "webhookUrl": "https://farcastictactoe.vercel.app/api/webhook"
   }
 }
 
