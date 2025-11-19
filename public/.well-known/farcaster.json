@@ -4,14 +4,13 @@
     "payload": "",
     "signature": ""
   },
-  "frame": {
-    "version": "next",
+  "miniapp": {
+    "version": "1",
     "name": "FarcasTicTacToe",
     "iconUrl": "https://farcastictactoe.vercel.app/icon.svg",
     "splashImageUrl": "https://farcastictactoe.vercel.app/splash.svg",
     "splashBackgroundColor": "#667eea",
-    "homeUrl": "https://farcastictactoe.vercel.app",
-    "webhookUrl": "https://farcastictactoe.vercel.app/api/webhook"
+    "homeUrl": "https://farcastictactoe.vercel.app"
   },
   "baseBuilder": {
     "ownerAddress": "0x8020eDa73aCAc4c192eEF47937C50808B39ED91c"
