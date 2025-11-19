@@ -10,7 +10,8 @@
     "iconUrl": "https://farcastictactoe.vercel.app/icon.svg",
     "splashImageUrl": "https://farcastictactoe.vercel.app/splash.svg",
     "splashBackgroundColor": "#667eea",
-    "homeUrl": "https://farcastictactoe.vercel.app"
+    "homeUrl": "https://farcastictactoe.vercel.app",
+    "canonicalDomain": "farcastictactoe.vercel.app"
   },
   "baseBuilder": {
     "ownerAddress": "0x8020eDa73aCAc4c192eEF47937C50808B39ED91c"
