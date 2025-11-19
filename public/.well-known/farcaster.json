@@ -1,9 +1,4 @@
 {
-  "accountAssociation": {
-    "header": "",
-    "payload": "",
-    "signature": ""
-  },
   "miniapp": {
     "version": "1",
     "name": "FarcasTicTacToe",
@@ -15,7 +10,7 @@
     "splashBackgroundColor": "#667eea",
     "canonicalDomain": "farcastictactoe.vercel.app",
     "primaryCategory": "games",
-    "tags": ["game", "tic-tac-toe", "base"],
+    "tags": ["game", "tictactoe", "base"],
     "tagline": "Play Tic-Tac-Toe anytime!"
   },
   "baseBuilder": {
