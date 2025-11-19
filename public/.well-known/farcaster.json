@@ -1,0 +1,17 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "next",
+    "name": "FarcasTicTacToe",
+    "iconUrl": "https://your-domain.com/icon.png",
+    "splashImageUrl": "https://your-domain.com/splash.png",
+    "splashBackgroundColor": "#667eea",
+    "homeUrl": "https://your-domain.com",
+    "webhookUrl": "https://your-domain.com/api/webhook"
+  }
+}
+
