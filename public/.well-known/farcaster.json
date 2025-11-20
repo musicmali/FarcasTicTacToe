@@ -2,19 +2,12 @@
   "miniapp": {
     "version": "1",
     "name": "FarcasTicTacToe",
-    "subtitle": "Play Tic-Tac-Toe on Base",
-    "description": "Challenge the CPU in a classic game of tic-tac-toe. Built on Base network as a Farcaster miniapp with medium difficulty AI.",
-    "iconUrl": "https://farcastictactoe.vercel.app/icon.svg",
     "homeUrl": "https://farcastictactoe.vercel.app/",
+    "iconUrl": "https://farcastictactoe.vercel.app/icon.svg",
     "splashImageUrl": "https://farcastictactoe.vercel.app/splash.svg",
-    "splashBackgroundColor": "#667eea",
-    "canonicalDomain": "farcastictactoe.vercel.app",
-    "primaryCategory": "games",
-    "tags": ["game", "tictactoe", "base"],
-    "tagline": "Play Tic-Tac-Toe anytime!"
+    "splashBackgroundColor": "#667eea"
   },
   "baseBuilder": {
     "ownerAddress": "0x8020eDa73aCAc4c192eEF47937C50808B39ED91c"
   }
 }
-
